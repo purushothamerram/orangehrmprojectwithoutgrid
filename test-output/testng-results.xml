@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44937" started-at="2016-03-28T13:53:55Z" finished-at="2016-03-28T13:54:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44937" started-at="2016-03-28T13:53:55Z" finished-at="2016-03-28T13:54:40Z">
+      <class name="com.orangehrm.baseclasses.Addemployee">
+        <test-method status="PASS" signature="addemploytest1()[pri:0, instance:com.orangehrm.baseclasses.Addemployee@29d30b80]" name="addemploytest1" duration-ms="23534" started-at="2016-03-28T19:24:14Z" finished-at="2016-03-28T19:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addemploytest1 -->
+      </class> <!-- com.orangehrm.baseclasses.Addemployee -->
+      <class name="com.orangehrm.baseclasses.screenshottest">
+        <test-method status="PASS" signature="screen()[pri:0, instance:com.orangehrm.baseclasses.screenshottest@5e9815f3]" name="screen" duration-ms="328" started-at="2016-03-28T19:24:38Z" finished-at="2016-03-28T19:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+      </class> <!-- com.orangehrm.baseclasses.screenshottest -->
+      <class name="com.orangehrm.baseclasses.logooutt">
+        <test-method status="PASS" signature="logouttes()[pri:0, instance:com.orangehrm.baseclasses.logooutt@52c93509]" name="logouttes" duration-ms="1747" started-at="2016-03-28T19:24:38Z" finished-at="2016-03-28T19:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logouttes -->
+      </class> <!-- com.orangehrm.baseclasses.logooutt -->
+      <class name="com.orangehrm.baseclasses.login">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.orangehrm.baseclasses.login@6f4051d1]" name="logintest" duration-ms="19293" started-at="2016-03-28T19:23:55Z" finished-at="2016-03-28T19:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- com.orangehrm.baseclasses.login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
